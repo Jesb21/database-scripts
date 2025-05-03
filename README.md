@@ -14,3 +14,5 @@ La rama `database-scripts` incluye scripts de creación de base de datos, inserc
 - Tener instalado **SQL Server Management Studio (SSMS)**.
 - Contar con permisos suficientes para crear/restaurar bases de datos.
 - Copiar los archivos del repositorio al equipo donde se va a instalar la base de datos.
+
+by: Willian Andres Cervantes Cermeño
