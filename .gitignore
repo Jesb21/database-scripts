@@ -1,0 +1,36 @@
+# Archivos de bases de datos
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.backup
+*.dump
+*.sql.gz
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Archivos de registro
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de copias de seguridad
+*~
+*.bak
+*.backup
+*.swp
+*.swo
